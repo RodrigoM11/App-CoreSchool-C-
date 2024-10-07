@@ -1,50 +1,46 @@
-﻿# Core Escuela
+﻿# Core School
 
-## Descripción
+## Description
 
-**Core Escuela** es un proyecto para practicar desarrollado en .NET 8 que permite administrar una escuela en cuanto a alumnos asignaturas y notas.
+**Core School** is a practice project developed in .NET 8 that allows managing a school, including students, subjects, and grades.
 
-## Opciones que podes seleccionar en la Consola: 
+## Options you can select in the Console:
 
-- **1.** Evaluaciones 
-- **2.** Escuela
-- **3.** Alumnos (estan precargados)
-- **4.** Cursos  (estan precargados)
-- **5.** Asignaturas (estan precargados)
-- **6.** Cargar una Nueva Evaluacion
-- **6.1** Editar una Evaluacion
-- **7.** Imprimir Promedio por Asignatura
-- **8.** Busqueda por Alumno
-- **9.** Salir
+- **1.** Evaluations 
+- **2.** School
+- **3.** Students (preloaded)
+- **4.** Courses (preloaded)
+- **5.** Subjects (preloaded)
+- **6.** Add a New Evaluation
+- **6.1** Edit an Evaluation
+- **7.** Print Average by Subject
+- **8.** Search by Student
+- **9.** Exit
 
+## Technologies Used
 
-## Tecnologías Utilizadas
+- **.NET 8**: A platform for building modern, high-performance applications.
+- **C#**: The programming language used for developing the application.
 
-- **.NET 8**: Plataforma para construir aplicaciones modernas y de alto rendimiento.
-- **C#**: Lenguaje de programación utilizado para el desarrollo de la aplicación.
+## Prerequisites
 
-## Requisitos Previos
+Make sure you have the following installed on your machine:
 
-Asegúrate de tener instalado lo siguiente en tu máquina:
+- [.NET SDK 8.0 or higher](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [Other dependencies if necessary]
 
-- [.NET SDK 8.0 o superior](https://dotnet.microsoft.com/download/dotnet/8.0)
-- [Otra dependencia si es necesario]
+## Operation
 
-## Operacion 
+To run the project, follow these steps:
 
-Para ejecutar el proyecto, sigue estos pasos:
-
-### Clona el repositorio:
+### Clone the repository:
 
 git clone https://github.com/RodrigoM11/App-CoreSchool-C-.git
 
-### Con la consola powershell apuntando al directorio del proyecto ejecuta :
+### With PowerShell pointing to the project directory, run the following commands:
 
-   dotnet restore, restaura las dependencias. 
+   dotnet restore, to restore the dependencies.
 
-   dotnet build, compila el proyecto.
+   dotnet build, to build the project.
 
-   dotnet run, ejecuta la aplicacion.
-
-
-
+   dotnet run, to run the application.
