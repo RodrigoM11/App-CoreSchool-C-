@@ -44,3 +44,14 @@ git clone https://github.com/RodrigoM11/App-CoreSchool-C-.git
    dotnet build, to build the project.
 
    dotnet run, to run the application.
+
+
+### Algunos conceptos trabajados: 
+
+- **1.** Herencia.  
+- **2.** Polimorfismo. 
+- **3.** ToString.
+- **4.** Interfaces. 
+- **5.** Diccionario Polimorfico.
+- **6.** Linq. 
+- **7**  Where de Linq.
