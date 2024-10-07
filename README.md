@@ -46,12 +46,12 @@ git clone https://github.com/RodrigoM11/App-CoreSchool-C-.git
    dotnet run, to run the application.
 
 
-### Algunos conceptos trabajados: 
+### Some concepts covered:
 
-- **1.** Herencia.  
-- **2.** Polimorfismo. 
+- **1.** Inheritance.
+- **2.** Polymorphism.
 - **3.** ToString.
 - **4.** Interfaces. 
-- **5.** Diccionario Polimorfico.
-- **6.** Linq. 
-- **7**  Where de Linq.
+- **5.** Polymorphic Dictionary.
+- **6.** LINQ.
+- **7**  LINQ's Where.
